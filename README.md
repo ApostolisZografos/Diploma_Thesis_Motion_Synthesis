@@ -30,6 +30,7 @@ The main logic is in the `main_controller.py` file, which provides a command-lin
 git clone https://github.com/ApostolisZografos/Diploma-Thesis-Motion-Synthesis
 cd Diploma-Thesis-Motion-Synthesis
 
+```
 ## Warning
 - in order to run the code you need to initialize these libraries (better make a Conda Enviroment)
 ![image](https://github.com/user-attachments/assets/e309653e-7037-460c-9143-a291f951dda0)
